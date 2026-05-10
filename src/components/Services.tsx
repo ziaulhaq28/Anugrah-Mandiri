@@ -15,7 +15,7 @@ const services: ServiceItem[] = [
     title: "Service & Cuci AC",
     desc: "Perawatan rutin untuk menjaga performa AC tetap optimal dan udara tetap bersih.",
     icon: Wind,
-    img: "/src/assets/images/regenerated_image_1778224957843.jpg",
+    img: "/images/regenerated_image_1778224957843.jpg",
     details: [
       "Cuci filter & evaporator indoor",
       "Cuci fan & kondensor outdoor",
@@ -28,7 +28,7 @@ const services: ServiceItem[] = [
     title: "Bongkar Pasang AC",
     desc: "Layanan pindah AC atau pasang unit baru dengan teknik pemakuman standar pabrik.",
     icon: Wrench,
-    img: "/src/assets/images/regenerated_image_1778224959433.jpg",
+    img: "/images/regenerated_image_1778224959433.jpg",
     details: [
       "Pemasangan unit indoor & outdoor",
       "Instalasi pipa tembaga & drainase",
@@ -41,7 +41,7 @@ const services: ServiceItem[] = [
     title: "Isi & Tambah Freon",
     desc: "Teknisi kami menangani pengecekan, deteksi kebocoran, dan pengisian freon R32, R410A, R22.",
     icon: Droplets,
-    img: "/src/assets/images/regenerated_image_1778224960848.jpg",
+    img: "/images/regenerated_image_1778224960848.jpg",
     details: [
       "Deteksi kebocoran pipa & nepel",
       "Vakum sistem (jika diperlukan)",
@@ -54,7 +54,7 @@ const services: ServiceItem[] = [
     title: "Perbaikan Kebocoran",
     desc: "Solusi untuk AC bocor air atau bocor freon dengan perbaikan permanen.",
     icon: Droplets,
-    img: "/src/assets/images/regenerated_image_1778224962315.jpg",
+    img: "/images/regenerated_image_1778224962315.jpg",
     details: [
       "Perbaikan drainase tersumbat",
       "Pengelasan titik bocor freon",
@@ -67,7 +67,7 @@ const services: ServiceItem[] = [
     title: "Ganti Sparepart",
     desc: "Penggantian kapasitor, overload, thermistor, atau komponen lainnya dengan part original.",
     icon: Wrench,
-    img: "/src/assets/images/regenerated_image_1778335145726.jpg",
+    img: "/images/regenerated_image_1778335145726.jpg",
     details: [
       "Ganti Kapasitor Fan/Kompresor",
       "Ganti Thermistor Sensor",
@@ -80,7 +80,7 @@ const services: ServiceItem[] = [
     title: "Instalasi Pipa",
     desc: "Pemasangan jalur pipa AC untuk gedung, rumah baru, atau renovasi dengan material premium.",
     icon: Wind,
-    img: "/src/assets/images/regenerated_image_1778224978967.jpg",
+    img: "/images/regenerated_image_1778224978967.jpg",
     details: [
       "Tanam pipa di dalam tembok",
       "Gunakan pipa tembaga tebal (Tateyama/Hoda)",

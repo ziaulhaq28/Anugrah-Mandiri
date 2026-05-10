@@ -22,7 +22,7 @@ export default function About() {
                 className="pt-12"
               >
                 <img 
-                  src="/src/assets/images/regenerated_image_1778224980434.jpg" 
+                  src="/images/regenerated_image_1778224980434.jpg" 
                   alt="Technician 1" 
                   className="rounded-2xl shadow-lg w-full h-[300px] object-cover"
                 />
@@ -34,7 +34,7 @@ export default function About() {
                 transition={{ delay: 0.2 }}
               >
                 <img 
-                  src="/src/assets/images/regenerated_image_1778224703020.jpg" 
+                  src="/images/regenerated_image_1778224703020.jpg" 
                   alt="Technician 2" 
                   className="rounded-2xl shadow-lg w-full h-[300px] object-cover"
                 />

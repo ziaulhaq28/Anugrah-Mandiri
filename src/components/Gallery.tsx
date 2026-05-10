@@ -3,12 +3,12 @@ import { motion, AnimatePresence } from "motion/react";
 import { X, ZoomIn, ZoomOut, Maximize2 } from "lucide-react";
 
 const images = [
-  "/src/assets/images/regenerated_image_1778340578378.jpg",
-  "/src/assets/images/regenerated_image_1778340580225.jpg",
-  "/src/assets/images/regenerated_image_1778340581539.jpg",
-  "/src/assets/images/regenerated_image_1778340582773.jpg",
-  "/src/assets/images/regenerated_image_1778340583990.jpg",
-  "/src/assets/images/regenerated_image_1778340585205.jpg"
+  "/images/regenerated_image_1778340578378.jpg",
+  "/images/regenerated_image_1778340580225.jpg",
+  "/images/regenerated_image_1778340581539.jpg",
+  "/images/regenerated_image_1778340582773.jpg",
+  "/images/regenerated_image_1778340583990.jpg",
+  "/images/regenerated_image_1778340585205.jpg"
 ];
 
 export default function Gallery() {

@@ -4,7 +4,7 @@ import { Zap, ChevronRight } from "lucide-react";
 import { useAttention } from "../context/AttentionContext";
 
 const slides = [
-  "/src/assets/images/regenerated_image_1778224701934.png",
+  "/images/regenerated_image_1778224701934.png",
   "https://i.ibb.co.com/4rp7sdZ/Professional-Ac-repair-services.jpg",
   "https://i.ibb.co.com/FqN0sWmw/Wall-Mounted-Air-Conditioner-Heat-Pump-Cleaning-Services-Residential-in-Greater-Montreal.jpg",
   "https://i.ibb.co.com/XkJdp7DX/image.jpg",
